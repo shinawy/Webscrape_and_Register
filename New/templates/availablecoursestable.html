@@ -1,0 +1,29 @@
+<strong>Basic Information</strong>
+<table border="1">
+    <tr>
+        <td>"deptCode"</td>
+        <td>"CourseNUm"</td>
+        <td>"courseName"</td>
+        <td>"courseDescription"</td>
+        <td>"CourseNotes"</td>
+        <td>"When Offered"</td>
+        <td>"min_credits"</td>
+        <td>"max_credits"</td>
+    </tr>
+    {% for info in courseinfo %}
+    <tr>
+        <td>{{info[0]}}</td>
+        <td>{{info[1]}}</td>
+        <td>{{info[2]}}</td>
+        <td>{{info[3]}}</td>
+        <td>{{info[4]}}</td>
+        <td>{{info[5]}}</td>
+        <td>{{info[6]}}</td>
+        <td>{{info[7]}}</td>
+
+    </tr>
+    {% endfor %}
+
+</table>
+
+<br><br>

@@ -1,0 +1,81 @@
+<strong>Basic Information</strong>
+<table border="1">
+    <tr>
+        <td>"deptCode"</td>
+        <td>"CourseNUm"</td>
+        <td>"courseName"</td>
+        <td>"courseDescription"</td>
+        <td>"CourseNotes"</td>
+        <td>"When Offered"</td>
+        <td>"min_credits"</td>
+        <td>"max_credits"</td>
+    </tr>
+    {% for info in courseinfo %}
+    <tr>
+        <td>{{info[0]}}</td>
+        <td>{{info[1]}}</td>
+        <td>{{info[2]}}</td>
+        <td>{{info[3]}}</td>
+        <td>{{info[4]}}</td>
+        <td>{{info[5]}}</td>
+        <td>{{info[6]}}</td>
+        <td>{{info[7]}}</td>
+
+    </tr>
+    {% endfor %}
+
+</table>
+
+<br><br>
+
+<strong>Prerequisite Courses</strong>
+<table border="1">
+    <tr>
+        <td>"deptCode"</td>
+        <td>"CourseNUm"</td>
+        <td>"prereq deptCode"</td>
+        <td>"prereq CourseNUm"</td>
+        <td>"prereqtext"</td>
+        <td>"is concurrent"</td>
+
+    </tr>
+    {% for info in courseprereq %}
+    <tr>
+        <td>{{info[0]}}</td>
+        <td>{{info[1]}}</td>
+        <td>{{info[2]}}</td>
+        <td>{{info[3]}}</td>
+        <td>{{info[4]}}</td>
+        <td>{{info[5]}}</td>
+
+
+    </tr>
+    {% endfor %}
+
+</table>
+
+<br><br>
+
+<strong>Crosslisted Courses</strong>
+<table border="1">
+    <tr>
+        <td>"deptCode"</td>
+        <td>"CourseNUm"</td>
+        <td>"second deptCode"</td>
+        <td>"second CourseNUm"</td>
+
+
+    </tr>
+    {% for info in coursecrosslisted %}
+    <tr>
+        <td>{{info[0]}}</td>
+        <td>{{info[1]}}</td>
+        <td>{{info[2]}}</td>
+        <td>{{info[3]}}</td>
+
+
+    </tr>
+    {% endfor %}
+
+</table>
+<br><br>

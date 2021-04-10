@@ -1,0 +1,76 @@
+deptCode,deptName
+ACCT,Accounting
+AIAS,"Center For Arabic Studies Abroad"
+ALIN,"Arabic Language Intensive"
+ALIS,"Arabic Language Intensive Summer"
+ALNG,"Arabic Language"
+ALWT,"Arabic Writing"
+AMST,"American Studies"
+ANTH,Anthropology
+APLN,"Applied Linguistics"
+ARCH,"Architectural Engineering"
+ARIC,"Arab and Islamic Civilizations"
+ARTV,"Visual Arts"
+BADM,"Business Administration"
+BIOL,Biology
+BIOT,Biotechnology
+BUSC,"Business School"
+CEMS,"International Management"
+CENG,"Construction Engineering"
+CHEM,Chemistry
+CORE,"Core Curriculum"
+CREL,"Comparative Religion"
+CSCE,"Computer Science and Engineering"
+DSCI,"Data Science"
+DSGN,"Graphic Design"
+ECLT,"English &amp; Comparative Literature"
+ECNG,"Electronics and Communications Engineering"
+ECON,Economics
+EDUC,Education
+EGPT,Egyptology
+ELIN,Engineering
+EMBA,"Executive Business Administration"
+ENGL,English
+ENGR,"Intensive English"
+ENTR,Entrepreneurship
+ENVE,"Environmental Engineering"
+FILM,Film
+FINC,Finance
+GHHE,"Global Public Health"
+GREN,"Sustainable Development"
+GWST,"Gender and Women’s Studies"
+HIST,History
+INTB,"International Business"
+JRMC,"Journalism &amp; Mass Communication"
+LALT,"Libraries and Learning Technologies"
+LAW,"International Human Rights Law"
+LING,"Applied Linguistics 2"
+MACT,"Mathematics and Actuarial Science"
+MENG,"Mechanical Engineering"
+MEST,"Middle East Studies"
+MGMT,Management
+MKTG,Marketing
+MOIS,"Management of Information Systems"
+MRS,"Migration &amp; Refugee Studies"
+MUSC,Music
+NANO,Nanotechnology
+OPMG,"Operations Management"
+PENG,"Petroleum Engineering"
+PHDE,"Ph.D. in Engineering"
+PHDS,"Ph.D. in Applied Sciences"
+PHIL,Philosophy
+PHYS,Physics
+POLS,"Political Science"
+PPAD,"Public Policy and Administration"
+PSYC,Psychology
+RCSS,"Robotics, Control and Smart Systems"
+RHET,"Rhetoric and Composition"
+SCI,Science
+SEMR,Seminar
+SOC,Sociology
+SOC/ANTH,Sociology-Anthropology
+SPAM,"Flush Prereq"
+TEAL,"Teaching &amp; Learning"
+THTR,Theatre
+TRST,"Translation Studies"
+TVDJ,"Television and Digital Journalism"

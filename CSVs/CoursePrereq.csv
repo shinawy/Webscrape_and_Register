@@ -1,0 +1,1367 @@
+deptCode,courseNum,PredeptCode,PrecourseNum,Prereqtext,isconcurrent
+ACCT,2002,ACCT,2001," N/A",0
+ACCT,3001,ACCT,2001," N/A",0
+ACCT,3002,ACCT,3001," N/A",0
+ACCT,3003,ACCT,3002," N/A",0
+ACCT,3004,ACCT,2002," N/A",0
+ACCT,3005,ACCT,3002," N/A",0
+ACCT,3006,ACCT,3002," N/A",0
+ACCT,4000,MOIS,2101," N/A",0
+ACCT,4001,ACCT,3005," N/A",0
+ACCT,4002,ACCT,3006," N/A",0
+ACCT,4004,ACCT,3002," N/A",0
+ACCT,4005,SPAM,0," Graduating Senior.",0
+ACCT,4070,SPAM,0," Prerequisite: Consent of Instructor.",0
+ACCT,4075,SPAM,0," Prerequisites: Senior standing and consent of ACCT unit head and chair.",0
+ACCT,5211,SPAM,0," Co-requisite:",0
+ACCT,5301,BADM,5310," N/A",0
+ACCT,5370,BADM,5310," N/A",0
+ACCT,5375,SPAM,0," Consent of the Instructor and Director of the program.",0
+AIAS,5152,AIAS,4101," N/A",0
+ALIN,2221,SPAM,0," Prerequisites are not listed for every course. Entry into all intermediate courses presupposes that the student is of intermediate standing. The instructor’s permission may also be required. Placement is determined by written exam for incoming students and if necessary for continuing students.",0
+ALIN,2411,SPAM,0," Prerequisite: Intermediate level in Arabic or consent of program director.",0
+ALIN,3411,SPAM,0," Prerequisite: Advanced level in Arabic or consent of program director.",0
+ALNG,1020,ALNG,1010," N/A",0
+ALNG,1502,ALNG,1501," N/A",0
+ALNG,2010,ALNG,1020," N/A",0
+ALNG,3105,SPAM,0," Any 2000 level Arabic language course.",0
+ALNG,3131,ALNG,2131," N/A",0
+ALNG,3327,SPAM,0," Good command of Arabic: native speakers of Arabic, heritage students, and/or native-like (must be at the level of ACTFL Advanced High).",0
+ALNG,3912,SPAM,0," Native Speakers of Arabic who are: Thanawyia Amma holders or exempted from Arabic language courses or at Advanced level of Arabic language.",0
+ALNG,3993,SPAM,0," Students should be holding Thanaweya Amma certificate or advanced level Arabic.",0
+ALWT,4201,ALWT,4271," N/A",0
+ALWT,4202,ALWT,4271," N/A",0
+ALWT,4271,SPAM,0," Students reaching Advanced level in the Arabic Writing Placement Exam or have taken either 3271.",0
+ALWT,4272,SPAM,0," Approval of ALNG Director.",0
+ALWT,4273,SPAM,0," Students reaching advanced level the Arabic Writing Placement Exam or have taken either 3271.",0
+ALWT,4274,SPAM,0," Students reaching advanced level in the Arabic Writing Placement Exam or have taken 3271.",0
+ALWT,5271,ALWT,4272," N/A",0
+AMST,2096,RHET,1000," N/A",0
+AMST,3100,SPAM,0," Sophomore Standing or Higher",0
+AMST,4444,JRMC,2203," N/A",0
+ANTH,2005,RHET,2010," N/A",0
+ANTH,3015,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3020,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3040,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3045,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3060,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3070,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3075,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3080,SPAM,0,,0
+ANTH,3085,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3090,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3102,SPAM,0," Prerequisites: 9 hours of social sciences and junior or senior standing, or consent of instructor.",0
+ANTH,3104,ANTH,3102," N/A",0
+ANTH,3105,ANTH,2101," N/A",0
+ANTH,3301,SPAM,0," 3 hours of Social Sciences.",0
+ANTH,3302,SPAM,0," Three hours of Social Sciences.",0
+ANTH,3303,SPAM,0," Three hours of Social Sciences",0
+ANTH,3304,SPAM,0," Three hours of Social Sciences",0
+ANTH,3305,SPAM,0," Three hours of Social Sciences.",0
+ANTH,4015,SPAM,0," Three hours of Anthropology, 6 hours of Social Sciences, and junior or senior standing.",0
+ANTH,4020,SPAM,0," 9 hours of social science",0
+ANTH,4025,SPAM,0," Prerequisites: 9 hours of social sciences and junior or senior standing.",0
+ANTH,4030,SPAM,0," 9 hours of Social Sciences and Junior or Senior standing.",0
+ANTH,4050,SPAM,0," Prerequisites: 9 hours of social sciences and junior or senior standing.",0
+ANTH,4055,SPAM,0," 9 hours of Social Sciences and Junior or Senior standing.",0
+ANTH,4065,SPAM,0," 9 hours of social sciences and junior or senior standing.",0
+ANTH,4070,SPAM,0," 9 hours of Social Sciences and Junior or Senior standing.",0
+ANTH,4075,SPAM,0," 9 hours of Social Sciences and Junior or Senior standing.",0
+ANTH,4099,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing.",0
+ANTH,4107,SPAM,0," Senior standing and",0
+ANTH,4203,SPAM,0," Six hours of social sciences or consent of the instructor.",0
+ANTH,4405,SPAM,0," Prerequisites: a minimum B average, consent of the instructor, and approval by the unit head and the department chair.",0
+ANTH,4560,SPAM,0," 12 credit hours of social science.",0
+APLN,5100,SPAM,0," None.",0
+APLN,5104,SPAM,0," None.",0
+APLN,5132,APLN,5301," N/A",0
+APLN,5202,APLN,5201," N/A",0
+APLN,5204,APLN,5203," N/A",0
+APLN,5206,APLN,5205," N/A",0
+APLN,5210,APLN,5203," N/A",0
+APLN,5271,SPAM,0," Prerequisite: consent of instructor.",0
+APLN,5310,APLN,5100," N/A",0
+APLN,5311,APLN,5302," N/A",0
+APLN,5312,APLN,5100," N/A",0
+APLN,5313,APLN,5100," N/A",0
+APLN,5320,APLN,5301," N/A",0
+APLN,5321,APLN,5301," N/A",0
+APLN,5322,APLN,5301," N/A",0
+APLN,5323,APLN,5301," N/A",0
+APLN,5330,APLN,5301," N/A",0
+APLN,5332,APLN,5100," N/A",0
+APLN,5371,SPAM,0," Consent of instructor.",0
+APLN,5397,APLN,5100," N/A",0
+ARCH,1511,SPAM,0,,0
+ARCH,1521,ENGR,1005," N/A",0
+ARCH,2211,SPAM,0,,0
+ARCH,2221,ARCH,1521," N/A",0
+ARCH,2231,PHYS,1011," N/A",0
+ARCH,2411,MACT,1121," N/A",0
+ARCH,2551,ARCH,1521," N/A",0
+ARCH,2552,ARCH,2221," N/A",0
+ARCH,3311,CENG,4252," N/A",0
+ARCH,3321,ARCH,2551," N/A",0
+ARCH,3331,ENGR,2102," N/A",0
+ARCH,3522,ARCH,3554," N/A",0
+ARCH,3531,ARCH,2411," N/A",0
+ARCH,3553,SPAM,0,,0
+ARCH,3554,SPAM,0,,0
+ARCH,3562,CENG,2251," N/A",0
+ARCH,3950,ARCH,2551," N/A",0
+ARCH,4312,ARCH,3311," N/A",0
+ARCH,4421,ARCH,2552," N/A",0
+ARCH,4532,ARCH,3531," N/A",0
+ARCH,4541,ARCH,2551," N/A",0
+ARCH,4555,ARCH,3554," N/A",0
+ARCH,4557,ARCH,4555," N/A",0
+ARCH,4558,ARCH,4557," N/A",0
+ARCH,4561,ARIC,2205," N/A",0
+ARCH,4562,ARCH,4561," N/A",0
+ARCH,4570,ARCH,4562," N/A",0
+ARCH,4801,ARCH,4562," N/A",0
+ARCH,4802,ARCH,4562," N/A",0
+ARCH,4803,ARCH,4562," N/A",0
+ARCH,4920,SPAM,0," Prerequisite: consent of instructor and department chair on the basis of a well-defined proposal.",0
+ARCH,4930,SPAM,0," Prerequisite: senior standing.",0
+ARCH,4936,ARCH,4541," N/A",0
+ARCH,4937,ARCH,3553," N/A",0
+ARCH,4938,ARCH,4532," N/A",0
+ARCH,4939,ARCH,3522," N/A",0
+ARCH,4951,ARCH,3311," N/A",0
+ARCH,4971,SPAM,0," Senior standing",0
+ARCH,4972,SPAM,0," Senior standing",0
+ARCH,4973,SPAM,0," Senior standing",0
+ARCH,4980,ARCH,4557," N/A",0
+ARCH,4981,ARCH,4558," N/A",0
+ARIC,510,SPAM,0," Consent of instructor.",0
+ARIC,512,SPAM,0," Consent of instructor.",0
+ARIC,521,SPAM,0," Consent of instructor.",0
+ARIC,560,SPAM,0," Consent of instructor.",0
+ARIC,575,SPAM,0," Consent of instructor.",0
+ARIC,2096,RHET,1000," N/A",0
+ARIC,2097,RHET,1000," N/A",0
+ARIC,2099,RHET,1000," N/A",0
+ARIC,3098,RHET,1020," N/A",0
+ARIC,3405,ARIC,2346," N/A",0
+ARIC,5101,SPAM,0," Prerequisite: consent of instructor.",0
+ARIC,5103,ARIC,2101," N/A",0
+ARIC,5127,ARIC,3268," N/A",0
+ARIC,5130,ARIC,2101," N/A",0
+ARIC,5133,SPAM,0,,0
+ARIC,5134,HIST,3213," N/A",0
+ARIC,5135,ARIC,3343," N/A",0
+ARIC,5136,ARIC,3355," N/A",0
+ARIC,5141,SPAM,0," Prerequisite: consent of instructor.",0
+ARIC,5142,SPAM,0," Prerequisite: consent of instructor.",0
+ARIC,5200,SPAM,0," Prerequisite: consent of unit.",0
+ARIC,5219,SPAM,0," Consent of department chair.",0
+ARIC,5230,SPAM,0," Prerequisite: consent of instructor.",0
+ARIC,5240,ARIC,3435," N/A",0
+ARIC,5241,ARIC,3435," N/A",0
+ARIC,5242,ARIC,3435," N/A",0
+ARIC,5243,ARIC,3435," N/A",0
+ARIC,5244,SPAM,0," Pre-requisite: Consent of instructor.",0
+ARIC,5245,SPAM,0," Prerequisite: Enrollment in Islamic Studies MA Program.",0
+ARTV,2202,ARTV,2201," N/A",0
+ARTV,2203,ARTV,2200," N/A",0
+ARTV,2206,ARTV,2201," N/A",0
+ARTV,2208,SPAM,0," Student should be declared as Visual Art Major.",0
+ARTV,2209,SPAM,0," Student should be declared as Visual Arts Major",0
+ARTV,2210,SPAM,0," Student should be declared as Visual Arts Major",0
+ARTV,3115,ARTV,2113," N/A",0
+ARTV,3311,ARTV,2201," N/A",0
+ARTV,3312,ARTV,2200," N/A",0
+ARTV,3316,ARTV,2214," N/A",0
+ARTV,4270,ARTV,4269," N/A",0
+ARTV,4311,ARTV,3312," N/A",0
+ARTV,4312,ARTV,4311," N/A",0
+BADM,3002,MGMT,3201," N/A",0
+BADM,3003,BADM,2001," N/A",0
+BADM,4001,SPAM,0," All BBA Business Core courses and graduating senior standing.",0
+BADM,4900,SPAM,0," All Business Core courses and graduating senior standing",0
+BADM,4999,SPAM,0," Junior standing",0
+BADM,5310,SPAM,0," All MBA Foundation Courses",0
+BADM,5401,SPAM,0," Consent of Instructor.",0
+BIOL,1010,SPAM,0," Non-science majors only.",0
+BIOL,1012,BIOL,1011," N/A",0
+BIOL,1040,SPAM,0," Non-science majors only.",0
+BIOL,2090,BIOL,2150," N/A",0
+BIOL,2150,BIOL,1011," N/A",0
+BIOL,2230,BIOL,2150," N/A",0
+BIOL,2320,PHYS,1011," N/A",0
+BIOL,2340,BIOL,1011," N/A",0
+BIOL,3040,SPAM,0," Prerequisite: Junior or senior standing.",0
+BIOL,3130,BIOL,2230," N/A",0
+BIOL,3280,CHEM,3006," N/A",0
+BIOL,3310,BIOL,2230," N/A",0
+BIOL,3326,BIOL,2230," N/A",0
+BIOL,3340,BIOL,1012," N/A",0
+BIOL,3341,BIOL,2150," N/A",0
+BIOL,3360,BIOL,2230," N/A",0
+BIOL,3370,BIOL,2230," N/A",0
+BIOL,3510,BIOL,1012," N/A",0
+BIOL,3540,BIOL,3510," N/A",0
+BIOL,3541,SPAM,0," Prerequisites: students must be good swimmers and consent of the instructor.",0
+BIOL,3542,SPAM,0," Prerequisite: Junior or Senior standing",0
+BIOL,3600,BIOL,1011," N/A",0
+BIOL,3601,BIOL,3600," N/A",0
+BIOL,4150,BIOL,2230," N/A",0
+BIOL,4230,BIOL,2230," N/A",0
+BIOL,4330,BIOL,2230," N/A",0
+BIOL,4540,SPAM,0,,0
+BIOL,4541,BIOL,3510," N/A",0
+BIOL,4690,SPAM,0," Prerequisites or corequisites",0
+BIOL,4691,BIOL,4690," N/A",0
+BIOL,4910,SPAM,0," Prerequisite: consent of the instructor.",0
+BIOL,4930,SPAM,0," Prerequisite: consent of the instructor.",0
+BIOL,4980,SPAM,0," Senior standing in biology.",0
+BIOL,4981,BIOL,4980," N/A",0
+BIOT,5203,BIOT,5201," N/A",0
+BIOT,5204,BIOT,5203," N/A",0
+BIOT,5206,SPAM,0," Prerequisites: Familiarity with molecular biology, calculus, basic probability and statistics.",0
+BIOT,5930,SPAM,0," Pre-requisite: consent of instructor, graduate standing.",0
+BIOT,5980,SPAM,0," SCI 5940",0
+BIOT,6204,BIOT,5203," N/A",0
+BIOT,6206,BIOT,5206," N/A",0
+BUSC,4000,SPAM,0," Junior standing and consent of the course instructor.",0
+CEMS,5202,SPAM,0," Students admitted to the program are ones that would have already conducted at least 30 Cr of management education.",0
+CEMS,5203,SPAM,0," For AUC Students :",0
+CEMS,5204,SPAM,0," For AUC students :",0
+CEMS,5205,SPAM,0," For AUC students:",0
+CENG,2251,ENGR,1005," N/A",0
+CENG,2311,MACT,1122," N/A",0
+CENG,3011,ARCH,3562," N/A",0
+CENG,3111,ENGR,2102," N/A",0
+CENG,3112,ENGR,2102," N/A",0
+CENG,3151,CENG,3112," N/A",0
+CENG,3152,CENG,3151," N/A",0
+CENG,3153,CENG,3111," N/A",0
+CENG,3211,ENGR,2112," N/A",0
+CENG,3312,CENG,2311," N/A",0
+CENG,3511,ENGR,2122," N/A",0
+CENG,4113,CENG,3153," N/A",0
+CENG,4154,CENG,4158," N/A",0
+CENG,4155,CENG,3153," N/A",0
+CENG,4157,CENG,3152," N/A",0
+CENG,4158,CENG,3152," N/A",0
+CENG,4212,CENG,3211," N/A",0
+CENG,4252,SPAM,0,,0
+CENG,4253,CENG,4252," N/A",0
+CENG,4313,ENGR,2112," N/A",0
+CENG,4314,CENG,4313," N/A",0
+CENG,4315,CENG,4314," N/A",0
+CENG,4351,ENGR,2104," N/A",0
+CENG,4352,CENG,4351," N/A",0
+CENG,4410,SPAM,0," For construction engineering students:",0
+CENG,4420,CENG,4410," N/A",0
+CENG,4430,CENG,4410," N/A",0
+CENG,4440,CENG,4410," N/A",0
+CENG,4450,CENG,4252," N/A",0
+CENG,4460,CENG,4420," N/A",0
+CENG,4470,CENG,4420," N/A",0
+CENG,4551,CENG,3511," N/A",0
+CENG,4552,CENG,4313," N/A",0
+CENG,4553,CENG,4551," N/A",0
+CENG,4554,CENG,3511," N/A",0
+CENG,4555,SPAM,0," Pre-requisites: Senior standing.",0
+CENG,4556,CENG,4551," N/A",0
+CENG,4557,CENG,4352," N/A",0
+CENG,4911,SPAM,0," Prerequisite: senior standing.",0
+CENG,4921,SPAM,0," Prerequisite: consent of instructor and department chair on the basis of a well-defined proposal.",0
+CENG,4951,SPAM,0," Prerequisite: completion of 96 credit hours.",0
+CENG,4980,SPAM,0," At least 4 of the 5 following courses",0
+CENG,4981,CENG,4980," N/A",0
+CENG,5151,SPAM,0," Dept. Approval for undergraduate students",0
+CENG,5152,SPAM,0," Department approval for undergraduate students or Admission to CENG graduate programmes",0
+CENG,5210,SPAM,0," Prerequisite: consent of instructor.",0
+CENG,5225,SPAM,0," Consent of instructor.",0
+CENG,5227,SPAM,0," Consent of instructor.",0
+CENG,5241,SPAM,0," Consent of instructor.",0
+CENG,5242,SPAM,0," Consent of instructor",0
+CENG,5243,SPAM,0," Prerequisite: consent of instructor.",0
+CENG,5244,SPAM,0," Prerequisite: consent of instructor.",0
+CENG,5247,SPAM,0," Consent of instructor.",0
+CENG,5264,CENG,5262," N/A",0
+CENG,5265,CENG,5262," N/A",0
+CENG,5266,CENG,5262," N/A",0
+CENG,5267,CENG,5263," N/A",0
+CENG,5292,SPAM,0," Prerequisite: consent of instructor.",0
+CENG,6211,SPAM,0," Consent of instructor.",0
+CENG,6212,SPAM,0," Consent of instructor.",0
+CENG,6213,SPAM,0," Consent of instructor.",0
+CENG,6222,SPAM,0," Consent of instructor.",0
+CENG,6223,CENG,5121," N/A",0
+CENG,6231,SPAM,0," Consent of instructor.",0
+CHEM,1003,SPAM,0," Not for credit for Science, Engineering and Computer Science Majors",0
+CHEM,1005,SPAM,0," Thanawiya Amma Science or equivalent.",0
+CHEM,1006,CHEM,1005," N/A",0
+CHEM,1015,SPAM,0," Thanawiya Amma Science or equivalent",0
+CHEM,1016,CHEM,1015," N/A",0
+CHEM,2001,SPAM,0," For science and non-science majors.",0
+CHEM,2003,CHEM,1005," N/A",0
+CHEM,2005,CHEM,1006," N/A",0
+CHEM,2006,CHEM,1006," N/A",0
+CHEM,2007,CHEM,1006," N/A",0
+CHEM,2016,CHEM,1016," N/A",0
+CHEM,2020,CHEM,1005," N/A",0
+CHEM,3002,CHEM,1006," N/A",0
+CHEM,3003,MACT,2123," N/A",0
+CHEM,3004,CHEM,3003," N/A",0
+CHEM,3005,CHEM,3003," N/A",0
+CHEM,3006,CHEM,2003," N/A",0
+CHEM,3009,CHEM,1006," N/A",0
+CHEM,3010,CHEM,1016," N/A",0
+CHEM,3011,CHEM,2006," N/A",0
+CHEM,3013,CHEM,1006," N/A",0
+CHEM,3014,CHEM,3013," N/A",0
+CHEM,3015,CHEM,3006," N/A",0
+CHEM,3016,CHEM,3010," N/A",0
+CHEM,3018,CHEM,2016," N/A",0
+CHEM,3020,CHEM,1005," N/A",0
+CHEM,3025,CHEM,3011," N/A",0
+CHEM,3522,CHEM,1006," N/A",0
+CHEM,3523,CHEM,3003," N/A",0
+CHEM,3940,SPAM,0," Junior standing",0
+CHEM,4003,CHEM,3004," N/A",0
+CHEM,4004,CHEM,3004," N/A",0
+CHEM,4006,CHEM,3006," N/A",0
+CHEM,4007,CHEM,1006," N/A",0
+CHEM,4008,CHEM,3009," N/A",0
+CHEM,4013,CHEM,3014," N/A",0
+CHEM,4016,CHEM,3016," N/A",0
+CHEM,4025,CHEM,3025," N/A",0
+CHEM,4030,CHEM,4016," N/A",0
+CHEM,4035,CHEM,4006," N/A",0
+CHEM,4040,CHEM,3009," N/A",0
+CHEM,4524,SPAM,0," (",0
+CHEM,4900,SPAM,0," Senior Standing",0
+CHEM,4910,SPAM,0," Prerequisite: consent of instructor, senior standing.",0
+CHEM,4930,SPAM,0," Prerequisite: consent of instructor.",0
+CHEM,4980,SPAM,0," Senior standing.",0
+CHEM,4981,CHEM,4980," N/A",0
+CHEM,5212,CHEM,5211," N/A",0
+CHEM,5220,CHEM,5201," N/A",0
+CHEM,5221,CHEM,5201," N/A",0
+CHEM,5222,CHEM,5201," N/A",0
+CHEM,5241,CHEM,5205," N/A",0
+CHEM,5242,CHEM,5205," N/A",0
+CHEM,5910,SPAM,0," Consent of instructor.",0
+CHEM,5930,SPAM,0," Consent of instructor",0
+CHEM,5980,SPAM,0," SCI 5940",0
+CHEM,6103,SPAM,0," Consent of instructor.",0
+CHEM,6105,CHEM,5204," N/A",0
+CHEM,6107,SPAM,0,,0
+CHEM,6240,SPAM,0,,0
+CORE,1010,SPAM,0," Taken concurrently with",0
+CORE,2099,RHET,1000," N/A",0
+CORE,2142,RHET,1020," N/A",0
+CORE,4198,RHET,2010," N/A",0
+CREL,2096,RHET,1000," N/A",0
+CREL,2097,RHET,1000," N/A",0
+CREL,2099,RHET,1000," N/A",0
+CREL,5609,SPAM,0," Prerequisite: Enrollment in the Islamic Studies MA program.",0
+CSCE,1001,SPAM,0," College level preparation course in Mathematics or",0
+CSCE,1101,CSCE,1001," N/A",0
+CSCE,1102,SPAM,0," Concurrent with",0
+CSCE,2202,MACT,2131," N/A",0
+CSCE,2203,MACT,2131," N/A",0
+CSCE,2301,PHYS,2211," N/A",0
+CSCE,2302,SPAM,0," Concurrent with",0
+CSCE,2303,CSCE,1101," N/A",0
+CSCE,2501,CSCE,1101," N/A",0
+CSCE,2502,SPAM,0," Prerequisite: Sophomore standing or higher.",0
+CSCE,3101,CSCE,1001," N/A",0
+CSCE,3102,CSCE,1101," N/A",0
+CSCE,3103,CSCE,1101," N/A",0
+CSCE,3104,CSCE,1101," N/A",0
+CSCE,3301,CSCE,2301," N/A",0
+CSCE,3302,SPAM,0," Prerequisite: Concurrent with",0
+CSCE,3303,PHYS,2211," N/A",0
+CSCE,3304,CSCE,2301," N/A",0
+CSCE,3311,CSCE,1101," N/A",0
+CSCE,3312,PHYS,2211," N/A",0
+CSCE,3313,SPAM,0," Concurrent with",0
+CSCE,3401,CSCE,2303," N/A",0
+CSCE,3402,CSCE,1101," N/A",0
+CSCE,3421,CSCE,1001," N/A",0
+CSCE,3422,CSCE,1101," N/A",0
+CSCE,3601,CSCE,2202," N/A",0
+CSCE,3611,PHYS,2211," N/A",0
+CSCE,3701,CSCE,1101," N/A",0
+CSCE,4101,CSCE,3104," N/A",0
+CSCE,4201,MACT,2131," N/A",0
+CSCE,4301,CSCE,3301," N/A",0
+CSCE,4302,SPAM,0," Concurrent with",0
+CSCE,4313,CSCE,3311," N/A",0
+CSCE,4314,SPAM,0," Concurrent with",0
+CSCE,4411,CSCE,3401," N/A",0
+CSCE,4421,CSCE,3401," N/A",0
+CSCE,4501,CSCE,2501," N/A",0
+CSCE,4502,CSCE,2501," N/A",0
+CSCE,4503,MOIS,2101," N/A",0
+CSCE,4602,CSCE,1101," N/A",0
+CSCE,4603,CSCE,1101," N/A",0
+CSCE,4604,CSCE,2202," N/A",0
+CSCE,4621,CSCE,1101," N/A",0
+CSCE,4701,CSCE,3701," N/A",0
+CSCE,4702,CSCE,3701," N/A",0
+CSCE,4910,SPAM,0," Prerequisite: consent of instructor.",0
+CSCE,4930,SPAM,0," Junior standing or higher.",0
+CSCE,4950,SPAM,0," Junior standing and approval of instructor.",0
+CSCE,4980,SPAM,0," Instructor approval",0
+CSCE,4981,CSCE,4980," N/A",0
+CSCE,5231,CSCE,3301," N/A",0
+CSCE,5242,CSCE,5231," N/A",0
+CSCE,5243,CSCE,5241," N/A",0
+CSCE,5245,SPAM,0," Consent of instructor",0
+CSCE,5266,SPAM,0," Approval of Instructor.",0
+CSCE,5910,SPAM,0," Consent of instructor",0
+CSCE,5930,SPAM,0," Prerequisite: permission of instructor.",0
+CSCE,5980,SPAM,0," Prerequisite: consent of instructor.",0
+CSCE,6231,SPAM,0," Approval of Instructor.",0
+CSCE,6261,SPAM,0," Consent of instructor.",0
+DSCI,1412,DSCI,1411," N/A",0
+DSCI,2411,DSCI,1412," N/A",0
+DSCI,3411,DSCI,1412," N/A",0
+DSCI,3413,MACT,4231," N/A",0
+DSCI,3415,MACT,3223," N/A",0
+DSCI,4411,DSCI,3415," N/A",0
+DSCI,4412,DSCI,1412," N/A",0
+DSCI,4413,MACT,2132," N/A",0
+DSCI,4415,DSCI,3415," N/A",0
+DSCI,4416,SPAM,0," Senior standing",0
+DSCI,4417,DSCI,4416," N/A",0
+DSCI,4950,SPAM,0," Consent of department chair or program director.",0
+DSGN,2115,DSGN,2113," N/A",0
+DSGN,2201,DSGN,2200," N/A",0
+DSGN,2202,DSGN,2201," N/A",0
+DSGN,2210,DSGN,2200," N/A",0
+DSGN,2250,DSGN,2200," N/A",0
+DSGN,3117,DSGN,2113," N/A",0
+DSGN,3203,DSGN,2201," N/A",0
+DSGN,3204,DSGN,2201," N/A",0
+DSGN,3205,DSGN,2201," N/A",0
+DSGN,3213,SPAM,0,,0
+DSGN,3220,DSGN,2210," N/A",0
+DSGN,3230,DSGN,3220," N/A",0
+DSGN,3235,DSGN,3250," N/A",0
+DSGN,3250,DSGN,2250," N/A",0
+DSGN,3265,DSGN,2210," N/A",0
+DSGN,3270,SPAM,0," Consent of Instructor",0
+DSGN,4200,SPAM,0," Completion of all Major Courses.",0
+DSGN,4210,SPAM,0," Completion of all major courses.",0
+DSGN,4220,DSGN,2201," N/A",0
+DSGN,4269,SPAM,0,,0
+DSGN,4270,DSGN,4269," N/A",0
+DSGN,4302,SPAM,0," Consent of instructor.",0
+DSGN,5115,DSGN,2115," N/A",0
+ECLT,2096,RHET,1000," N/A",0
+ECLT,2097,RHET,1000," N/A",0
+ECLT,2099,RHET,1000," N/A",0
+ECNG,1501,CSCE,1001," N/A",0
+ECNG,1502,CSCE,1001," N/A",0
+ECNG,2101,CSCE,1001," N/A",0
+ECNG,2105,PHYS,1021," N/A",0
+ECNG,2106,ECNG,2105," N/A",0
+ECNG,3105,ECNG,2106," N/A",0
+ECNG,3106,ECNG,3105," N/A",0
+ECNG,3108,ECNG,2101," N/A",0
+ECNG,3201,ECNG,2106," N/A",0
+ECNG,3202,ECNG,3201," N/A",0
+ECNG,3401,PHYS,2221," N/A",0
+ECNG,3503,SPAM,0,,0
+ECNG,3601,ECNG,2106," N/A",0
+ECNG,4101,SPAM,0," Prerequisite: consent of instructor.",0
+ECNG,4103,ECNG,2101," N/A",0
+ECNG,4104,ECNG,3105," N/A",0
+ECNG,4105,ECNG,3106," N/A",0
+ECNG,4301,ECNG,3201," N/A",0
+ECNG,4302,ECNG,4301," N/A",0
+ECNG,4306,ECNG,4301," N/A",0
+ECNG,4308,ECNG,4301," N/A",0
+ECNG,4310,ECNG,3401," N/A",0
+ECNG,4312,ECNG,4302," N/A",0
+ECNG,4402,ENGR,1005," N/A",0
+ECNG,4407,ECNG,4402," N/A",0
+ECNG,4504,ECNG,3503," N/A",0
+ECNG,4505,ECNG,2101," N/A",0
+ECNG,4506,SPAM,0,,0
+ECNG,4601,SPAM,0," Senior level standing.",0
+ECNG,4920,SPAM,0," Consent of instructor and departmental approval",0
+ECNG,4930,SPAM,0," Senior standing.",0
+ECNG,4950,SPAM,0," Completion of 8 weeks of industrial training AFTER the completion of 100 credit hours",0
+ECNG,4980,SPAM,0," Prerequisite: senior standing.",0
+ECNG,4981,ECNG,4980," N/A",0
+ECNG,5210,SPAM,0," Graduate standing in engineering and physics. Electromagnetics, vector algebra, differential equations, and MATLAB programming.",0
+ECNG,5214,ECNG,3105," N/A",0
+ECNG,5216,ECNG,3106," N/A",0
+ECNG,5217,ECNG,3105," N/A",0
+ECNG,5218,ECNG,3108," N/A",0
+ECNG,5219,ECNG,3108," N/A",0
+ECNG,5223,ECNG,3503," N/A",0
+ECNG,5225,ECNG,3201," N/A",0
+ECNG,5226,ECNG,3202," N/A",0
+ECNG,5230,MACT,3224," N/A",0
+ECNG,5231,ECNG,4302," N/A",0
+ECNG,5233,ECNG,4302," N/A",0
+ECNG,5234,ECNG,5230," N/A",0
+ECNG,5236,ECNG,4302," N/A",0
+ECNG,5238,ECNG,4306," N/A",0
+ECNG,5241,ECNG,4402," N/A",0
+ECNG,5247,ECNG,5241," N/A",0
+ECNG,5248,ECNG,5241," N/A",0
+ECNG,5249,ECNG,5241," N/A",0
+ECNG,6219,SPAM,0," Consent of instructor.",0
+ECNG,6235,ECNG,5230," N/A",0
+ECNG,6930,SPAM,0," Consent of instructor.",0
+ECNG,6931,ECNG,5233," N/A",0
+ECON,1099,RHET,1000," N/A",0
+ECON,2061,MACT,1111," N/A",0
+ECON,2081,MACT,2222," N/A",0
+ECON,3011,SPAM,0," For Economics students",0
+ECON,3021,ECON,2021," N/A",0
+ECON,3041,FINC,2101," N/A",0
+ECON,3053,ECON,2021," N/A",0
+ECON,3054,ECON,2021," N/A",0
+ECON,3055,ECON,2021," N/A",0
+ECON,3061,MACT,1122," N/A",0
+ECON,3071,ECON,2021," N/A",0
+ECON,3081,ECON,2081," N/A",0
+ECON,4000,SPAM,0," Consent of instructor and unit head, senior standing.",0
+ECON,4002,SPAM,0," Senior Standing.",0
+ECON,4012,ECON,2011," N/A",0
+ECON,4013,ECON,2011," N/A",0
+ECON,4014,ECON,2021," N/A",0
+ECON,4015,ECON,3081," N/A",0
+ECON,4031,ECON,3021," N/A",0
+ECON,4041,ECON,2081," N/A",0
+ECON,4050,SPAM,0," Minimum junior standing.",0
+ECON,4051,ECON,2021," N/A",0
+ECON,4061,ECON,3061," N/A",0
+ECON,4081,ECON,3081," N/A",0
+ECON,4082,SPAM,0," Concurrent with",0
+ECON,4091,ECON,2021," N/A",0
+ECON,4094,ECON,2021," N/A",0
+ECON,4099,SPAM,0," Pre-requisites vary depending on the topic of the course",0
+ECON,5201,ECON,5211," N/A",0
+ECON,5211,ECON,4061," N/A",0
+ECON,5213,ECON,5251," N/A",0
+ECON,5215,ECON,3011," N/A",0
+ECON,5217,ECON,4061," N/A",0
+ECON,5219,SPAM,0,,0
+ECON,5221,ECON,4061," N/A",0
+ECON,5231,ECON,5251," N/A",0
+ECON,5233,ECON,5221," N/A",0
+ECON,5241,ECON,4061," N/A",0
+ECON,5242,ECON,4081," N/A",0
+ECON,5254,SPAM,0,,0
+ECON,5256,ECON,5251," N/A",0
+ECON,5257,SPAM,0," (",0
+ECON,5259,SPAM,0," Completion of at least 3 core courses.",0
+ECON,5261,ECON,4061," N/A",0
+ECON,5281,ECON,4081," N/A",0
+ECON,5299,SPAM,0," Consent of instructor",0
+EDUC,3031,EDUC,2011," N/A",0
+EDUC,5233,EDUC,5201," N/A",0
+EDUC,5265,PSYC,5205," N/A",0
+EDUC,5288,SPAM,0," Final semester before graduation",0
+EDUC,5293,EDUC,5201," N/A",0
+EGPT,2030,SPAM,0," Only open to declared architecture majors and Egyptology majors.",0
+EGPT,2099,RHET,1000," N/A",0
+EGPT,2252,EGPT,2251," N/A",0
+EGPT,3010,SPAM,0," Instructor’s consent",0
+EGPT,3201,EGPT,2020," N/A",0
+EGPT,3202,EGPT,2020," N/A",0
+EGPT,4040,SPAM,0," Prerequisite: instructor’s permission.",0
+EGPT,5030,SPAM,0," Department approval.",0
+EGPT,5100,SPAM,0,,0
+EGPT,5110,EGPT,3211," N/A",0
+EGPT,5111,SPAM,0," Consent of instructor.",0
+EGPT,5120,EGPT,3211," N/A",0
+EGPT,5120,SPAM,0," Consent of instructor.",0
+EGPT,5130,EGPT,5120," N/A",0
+EGPT,5130,SPAM,0," Consent of instructor.",0
+EGPT,5140,SPAM,0," Prerequisite: consent or of instructor.",0
+EGPT,5150,EGPT,2252," N/A",0
+EGPT,5151,EGPT,2252," N/A",0
+EGPT,5152,EGPT,2252," N/A",0
+EGPT,5153,EGPT,5151," N/A",0
+EGPT,5153,SPAM,0," Hieroglyphics I-III or equivalent",0
+EGPT,5170,SPAM,0," Prerequisite: consent of instructor.",0
+EGPT,5180,SPAM,0," Consent of instructor.",0
+EGPT,5191,SPAM,0," Permission of instructor.",0
+EGPT,5199,SPAM,0," Consent of instructor.",0
+EGPT,5220,SPAM,0," Consent of instructor.",0
+EGPT,5240,SPAM,0," Consent of instructor.",0
+EGPT,5320,SPAM,0," Consent of the instructor.",0
+EGPT,5330,SPAM,0," Consent of the instructor.",0
+EGPT,5420,SPAM,0," Consent of instructor.",0
+EGPT,5430,SPAM,0," Consent of instructor.",0
+EGPT,5440,SPAM,0," A course In Egyptian art.",0
+EGPT,5510,EGPT,5152," N/A",0
+EGPT,5520,SPAM,0," Equivalency to advanced hieroglyphs.",0
+EGPT,5530,EGPT,2251," N/A",0
+EGPT,5540,SPAM,0," Basic Coptic.",0
+EGPT,5550,EGPT,2251," N/A",0
+EGPT,5560,EGPT,2251," N/A",0
+EGPT,5991,SPAM,0," Consent of instructor.",0
+EGPT,5992,SPAM,0," Completion of required coursework.",0
+ENGR,2102,MACT,1122," N/A",0
+ENGR,2104,MACT,2123," N/A",0
+ENGR,2112,ENGR,2102," N/A",0
+ENGR,2122,PHYS,1021," N/A",0
+ENGR,3202,CSCE,1001," N/A",0
+ENGR,3212,PHYS,1021," N/A",0
+ENGR,3222,MACT,1122," N/A",0
+ENGR,3322,PHYS,1011," N/A",0
+ENGR,3920,SPAM,0," Consent of instructor and approval of the associate dean for undergraduate studies based on a well-defined proposal.",0
+ENGR,5101,SPAM,0," Senior, graduation senior, interdisciplinary graduate",0
+ENGR,5940,SPAM,0," Completion of 9 cr hrs",0
+ENTR,4102,MGMT,3201," N/A",0
+ENTR,4301,MKTG,2101," N/A",0
+ENTR,4302,ENTR,4102," N/A",0
+ENTR,4303,ENTR,4102," N/A",0
+ENTR,4501,ENTR,4102," N/A",0
+ENTR,4502,ENTR,4102," N/A",0
+ENTR,4503,ENTR,4102," N/A",0
+ENTR,4970,SPAM,0," Consent of Instructor.",0
+ENTR,5202,ENTR,5201," N/A",0
+ENTR,5211,SPAM,0," Co-requisite:",0
+ENVE,5930,SPAM,0," Prerequisite: consent of instructor.",0
+ENVE,5980,ENGR,5940," N/A",0
+FILM,2099,RHET,1000," N/A",0
+FILM,2122,FILM,2120," N/A",0
+FILM,2123,FILM,2121," N/A",0
+FILM,3041,ANTH,2101," N/A",0
+FILM,3130,FILM,2122," N/A",0
+FILM,3140,FILM,2120," N/A",0
+FILM,3252,FILM,2123," N/A",0
+FILM,3253,FILM,3252," N/A",0
+FILM,3254,FILM,3253," N/A",0
+FILM,3306,FILM,2123," N/A",0
+FILM,3352,FILM,2122," N/A",0
+FILM,3354,FILM,2120," N/A",0
+FILM,3402,FILM,3254," N/A",0
+FILM,4201,FILM,3254," N/A",0
+FILM,4250,FILM,3254," N/A",0
+FILM,4350,SPAM,0," Students other than Philosophy majors must take",0
+FILM,4356,SPAM,0," Fourth year level in the Film major or consent of the Director of the Film Program. May be taken more than once.",0
+FILM,4402,SPAM,0," This course is restricted to senior level students in the Film Major or Minor. Departmental approval required.",0
+FILM,5170,SPAM,0," Fourth-year Film majors only, or consent of the instructor.",0
+FINC,2101,ACCT,2001," N/A",0
+FINC,3201,FINC,2101," N/A",0
+FINC,3401,FINC,2101," N/A",0
+FINC,3501,FINC,2101," N/A",0
+FINC,4202,FINC,2101," N/A",0
+FINC,4203,FINC,3201," N/A",0
+FINC,4204,FINC,3201," N/A",0
+FINC,4301,FINC,3201," N/A",0
+FINC,4302,FINC,4301," N/A",0
+FINC,4970,FINC,3201," N/A",0
+FINC,4975,SPAM,0," Prerequisites: Senior standing and consent of FINC unit head and chair.",0
+FINC,5202,ACCT,5201," N/A",0
+FINC,5203,ACCT,5201," N/A",0
+FINC,5204,ACCT,5201," N/A",0
+FINC,5211,SPAM,0," Co-requisite:",0
+FINC,5311,ACCT,5201," N/A",0
+FINC,5312,ACCT,5201," N/A",0
+FINC,5313,ACCT,5201," N/A",0
+FINC,5314,ACCT,5201," N/A",0
+FINC,5315,ACCT,5201," N/A",0
+FINC,5320,FINC,5202," N/A",0
+FINC,5331,ACCT,5201," N/A",0
+FINC,5333,ACCT,5201," N/A",0
+FINC,5351,SPAM,0,,0
+FINC,5352,ACCT,5201," N/A",0
+FINC,5353,ACCT,5201," N/A",0
+FINC,5370,ACCT,5201," N/A",0
+FINC,5375,SPAM,0," Prerequisite: Consent of FINC unit head and chair.",0
+GHHE,5341,SPAM,0," Permission of Instructor",0
+GHHE,5342,SPAM,0," Permission of Instructor.",0
+GHHE,5343,SPAM,0," permission of Instructor.",0
+GHHE,5345,SPAM,0," permission of Instructor.",0
+GHHE,5347,SPAM,0," permission of Instructor.",0
+GREN,5204,MGMT,5307," N/A",0
+GREN,5224,ACCT,5201," N/A",0
+GREN,5236,SPAM,0," The course provides an overview of recent literature and debates concerned with the relationships between migration and development. Migration and development are related issues. On the one hand, development is a determinant of migration. International differentials in development, mainly economic (labor-, income- and capital-related), but also political (state- and society-related), will be reviewed. These elements apply at the sending end as push factors (underemployment and unemployment; poverty; poor access to welfare; low rewards to skills; poor governance, political or civil instability, etc.) and at the receiving end as pull factors (jobs availability; higher incomes; social security; higher education; networks of previous migrants; etc.). On the other hand, migration has an impact on development. International mobility of workers and their family members can work for, or against, development. Debates on the impact of development include the following:",0
+GREN,5281,SPAM,0," Advisor Approval.",0
+GREN,5282,SPAM,0," Advisor Approval.",0
+GREN,5283,SPAM,0," Advisor Approval.",0
+GWST,5180,SPAM,0," Prerequisite: Approval of IGWS Graduate Advisory Committee.",0
+GWST,5205,GWST,5100," N/A",0
+HIST,2096,RHET,1000," N/A",0
+HIST,2097,RHET,1000," N/A",0
+HIST,2099,RHET,1000," N/A",0
+HIST,2902,HIST,2901," N/A",0
+HIST,3105,SPAM,0," The course will not be open to students who have already taken",0
+HIST,3903,HIST,2901," N/A",0
+HIST,3904,HIST,2901," N/A",0
+HIST,4000,HIST,4801," N/A",0
+HIST,4219,HIST,3213," N/A",0
+HIST,4221,SPAM,0," Prerequisite: consent of instructor",0
+HIST,4222,SPAM,0," (1) Working Knowledge of colloquial Arabic",0
+HIST,4801,SPAM,0," Prerequisite: To be taken in senior year",0
+HIST,4802,HIST,4801," N/A",0
+INTB,3501,FINC,2101," N/A",0
+INTB,4601,MKTG,2101," N/A",0
+JRMC,2201,SPAM,0," Acceptance into the major",0
+JRMC,2202,JRMC,2201," N/A",0
+JRMC,2208,JRMC,2200," N/A",0
+JRMC,2280,JRMC,2202," N/A",0
+JRMC,2299,RHET,1000," N/A",0
+JRMC,3301,JRMC,2202," N/A",0
+JRMC,3305,JRMC,2201," N/A",0
+JRMC,3307,JRMC,2201," N/A",0
+JRMC,3312,JRMC,2202," N/A",0
+JRMC,3315,JRMC,2202," N/A",0
+JRMC,3320,SPAM,0," Junior standing.",0
+JRMC,3330,SPAM,0,,0
+JRMC,3333,SPAM,0,,0
+JRMC,3337,JRMC,2202," N/A",0
+JRMC,3339,JRMC,2202," N/A",0
+JRMC,3355,SPAM,0,,0
+JRMC,3366,ENTR,4503," N/A",0
+JRMC,3380,JRMC,2203," N/A",0
+JRMC,3390,JRMC,2200," N/A",0
+JRMC,4402,SPAM,0," Completion of university general requirements in Arabic and",0
+JRMC,4403,JRMC,2202," N/A",0
+JRMC,4405,JRMC,3305," N/A",0
+JRMC,4406,SPAM,0," Junior standing.",0
+JRMC,4412,JRMC,3312," N/A",0
+JRMC,4415,JRMC,2202," N/A",0
+JRMC,4420,SPAM,0," Junior standing.",0
+JRMC,4425,JRMC,3315," N/A",0
+JRMC,4430,JRMC,3315," N/A",0
+JRMC,4441,JRMC,2202," N/A",0
+JRMC,4444,JRMC,2202," N/A",0
+JRMC,4460,JRMC,2202," N/A",0
+JRMC,4471,JRMC,2202," N/A",0
+JRMC,4480,JRMC,3333," N/A",0
+JRMC,4482,JRMC,3320," N/A",0
+JRMC,4499,SPAM,0," Junior standing and written project proposal endorsed by fulltime faculty with project review by department.",0
+JRMC,5201,SPAM,0," appropriate professional experience or undergraduate coursework (",0
+JRMC,5240,JRMC,5201," N/A",0
+LALT,1020,SPAM,0,,0
+LAW,5201,SPAM,0," LAW 5200",0
+LAW,5205,SPAM,0," LAW 5202",0
+LAW,5207,SPAM,0," LAW 5209",0
+LAW,5208,SPAM,0," LAW 5209",0
+LAW,5211,SPAM,0," LAW 5209",0
+LAW,5214,SPAM,0," LAW 5209",0
+LAW,5216,SPAM,0," LAW 5209",0
+LAW,5218,SPAM,0," LAW 5209",0
+LAW,5219,SPAM,0," LAW 5209",0
+LAW,5223,SPAM,0," LAW 5202",0
+LAW,5224,SPAM,0," LAW 5202",0
+LAW,5225,SPAM,0," LAW 5202",0
+LAW,5226,SPAM,0," LAW 5202",0
+LAW,5227,SPAM,0," Permission of the Department. Prerequisites can be waived by special permission of the Law Department.",0
+LAW,5228,SPAM,0,,0
+LAW,5270,SPAM,0," Permission of the Department. Prerequisites can be waived by special permission of the Law Department.",0
+LAW,5271,SPAM,0," Permission of the Department. Prerequisites can be waived by special permission of the Law Department.",0
+LAW,5272,SPAM,0," Permission of the Department. Prerequisites can be waived by special permission of the Law Department.",0
+LAW,5275,SPAM,0," Prerequisite: consent of the instructor.",0
+LAW,5284,SPAM,0," Consent of the instructor.",0
+LAW,5285,SPAM,0," Consent of the instructor.",0
+LAW,5286,SPAM,0," Consent of the instructor and approval of the Degree Program Director.",0
+LAW,5299,SPAM,0," LAW 5227",0
+LING,2210,RHET,2010," N/A",0
+LING,2299,RHET,1000," N/A",0
+LING,3310,LING,2200," N/A",0
+LING,3320,LING,2200," N/A",0
+LING,3330,LING,2200," N/A",0
+LING,4099,SPAM,0," 9 hours of humanities and/or social sciences, and junior or senior standing.",0
+LING,4410,CSCE,1101," N/A",0
+MACT,1111,SPAM,0," Thanawyia Amma Arts or equivalent.",0
+MACT,1112,SPAM,0," Prerequisite: Thanawyia ‘Amma Science or .",0
+MACT,1121,SPAM,0," Thanawiya Amma Science or equivalent or",0
+MACT,1122,MACT,1121," N/A",0
+MACT,2123,MACT,1122," N/A",0
+MACT,2124,MACT,2123," N/A",0
+MACT,2131,MACT,1121," N/A",0
+MACT,2132,MACT,2123," N/A",0
+MACT,2141,MACT,2123," N/A",0
+MACT,2146,MACT,1122," N/A",0
+MACT,3133,MACT,2131," N/A",0
+MACT,3142,MACT,2141," N/A",0
+MACT,3143,SPAM,0," Pre-requisites or concurrent:",0
+MACT,3146,MACT,2146," N/A",0
+MACT,3211,MACT,2123," N/A",0
+MACT,3223,MACT,3211," N/A",0
+MACT,3224,MACT,2123," N/A",0
+MACT,3311,MACT,2123," N/A",0
+MACT,3940,SPAM,0," Prerequisite: junior standing",0
+MACT,4125,MACT,2124," N/A",0
+MACT,4126,MACT,2131," N/A",0
+MACT,4127,MACT,4126," N/A",0
+MACT,4134,MACT,2131," N/A",0
+MACT,4135,MACT,2131," N/A",0
+MACT,4212,MACT,2132," N/A",0
+MACT,4213,MACT,2132," N/A",0
+MACT,4231,MACT,2132," N/A",0
+MACT,4232,MACT,4231," N/A",0
+MACT,4233,SPAM,0," For SSE Students:",0
+MACT,4312,MACT,3311," N/A",0
+MACT,4313,MACT,4212," N/A",0
+MACT,4314,FINC,3201," N/A",0
+MACT,4321,MACT,3211," N/A",0
+MACT,4322,MACT,4212," N/A",0
+MACT,4331,MACT,3211," N/A",0
+MACT,4332,MACT,3223," N/A",0
+MACT,4910,SPAM,0," Prerequisite: senior standing and consent of supervisor.",0
+MACT,4930,SPAM,0," Prerequisite: consent of instructor.",0
+MACT,4931,SPAM,0," Senior standing and consent of supervisor.",0
+MACT,4950,SPAM,0," Consent of department chairperson or program director.",0
+MACT,4980,SPAM,0," Restricted to seniors",0
+MACT,4990,SPAM,0," Senior standing and consent of adviser and instructor.",0
+MACT,6111,SPAM,0," Consent of instructor.",0
+MACT,6121,SPAM,0," A course in probability and consent of instructor.",0
+MENG,2112,ENGR,2102," N/A",0
+MENG,2505,ENGR,1001," N/A",0
+MENG,3207,CHEM,1005," N/A",0
+MENG,3209,MENG,3207," N/A",0
+MENG,3217,ENGR,2102," N/A",0
+MENG,3402,ENGR,3202," N/A",0
+MENG,3446,MACT,3224," N/A",0
+MENG,3502,ENGR,2104," N/A",0
+MENG,3505,ENGR,2112," N/A",0
+MENG,3506,ENGR,2104," N/A",0
+MENG,3601,ENGR,2122," N/A",0
+MENG,3602,MENG,3601," N/A",0
+MENG,3605,MENG,3601," N/A",0
+MENG,3705,PHYS,2211," N/A",0
+MENG,4208,MENG,3209," N/A",0
+MENG,4221,MENG,3209," N/A",0
+MENG,4225,MENG,3209," N/A",0
+MENG,4226,MENG,3209," N/A",0
+MENG,4227,MENG,3209," N/A",0
+MENG,4229,MENG,3209," N/A",0
+MENG,4232,MENG,3209," N/A",0
+MENG,4239,PHYS,2211," N/A",0
+MENG,4440,ENGR,3202," N/A",0
+MENG,4441,MENG,4440," N/A",0
+MENG,4442,MENG,3402," N/A",0
+MENG,4443,MENG,3402," N/A",0
+MENG,4444,MENG,3209," N/A",0
+MENG,4445,ENGR,3202," N/A",0
+MENG,4448,MENG,4440," N/A",0
+MENG,4449,ENGR,3222," N/A",0
+MENG,4477,MENG,3209," N/A",0
+MENG,4507,MENG,3506," N/A",0
+MENG,4551,SPAM,0," Senior standing,",0
+MENG,4553,MENG,3505," N/A",0
+MENG,4554,MENG,4553," N/A",0
+MENG,4555,SPAM,0," Senior standing and",0
+MENG,4558,MENG,3209," N/A",0
+MENG,4565,MENG,3506," N/A",0
+MENG,4606,ENGR,3202," N/A",0
+MENG,4661,MENG,3602," N/A",0
+MENG,4662,SPAM,0,,0
+MENG,4663,MENG,3605," N/A",0
+MENG,4665,MENG,3602," N/A",0
+MENG,4666,SPAM,0,,0
+MENG,4667,MENG,4606," N/A",0
+MENG,4756,SPAM,0," Senior standing and",0
+MENG,4757,ENGR,2104," N/A",0
+MENG,4778,PHYS,2211," N/A",0
+MENG,4779,MENG,3705," N/A",0
+MENG,4920,SPAM,0," Prerequisite: approval of department chair.",0
+MENG,4930,SPAM,0," Prerequisite: senior standing.",0
+MENG,4931,SPAM,0," Prerequisite: senior standing in mechanical engineering.",0
+MENG,4932,MENG,3209," N/A",0
+MENG,4936,SPAM,0," Depends on topic",0
+MENG,4937,SPAM,0," depends on topic",0
+MENG,4950,SPAM,0," Prerequisite: Senior standing and completion of all ENGR in addition to a minimum of 18 credits of MENG.",0
+MENG,4980,MENG,3446," N/A",0
+MENG,4981,MENG,4980," N/A",0
+MENG,5168,SPAM,0," Consent of instructor",0
+MENG,5255,SPAM,0," Consent of instructor.",0
+MENG,5263,SPAM,0," B.Sc. level Mechanical engineering courses in Thermodynamics, Heat transfer, Fluid mechanics and applications, or equivalent.",0
+MENG,5265,SPAM,0," Undergraduate level knowledge of:",0
+MENG,5266,SPAM,0," University level heat transfer, thermodynamics, trigonometry and calculus. Computer usage proficiency in use of EXCEL or MATLAB",0
+MENG,5270,SPAM,0," Instructor Consent.",0
+MENG,5271,SPAM,0," Instructor Consent.",0
+MENG,5272,SPAM,0," Instructor Consent.",0
+MENG,5273,SPAM,0," Instructor consent.",0
+MENG,5274,SPAM,0," Instructor Consent.",0
+MENG,5930,SPAM,0," Prerequisite: consent of instructor.",0
+MENG,5981,ENGR,5940," N/A",0
+MENG,6241,SPAM,0," Graduate level knowledge of probability, statistics and stochastic processes.",0
+MENG,6255,MENG,3505," N/A",0
+MENG,6262,MENG,3602," N/A",0
+MENG,6270,SPAM,0," Consent of instructor.",0
+MEST,4210,SPAM,0," Prerequisite: Consent of instructor and department on the basis of a well-defined proposal.",0
+MEST,5202,SPAM,0," Prerequisite: completion of 24 credit hours toward the degree or consent of program director.",0
+MEST,5281,SPAM,0," Pre-requisites: completion of one semester and Program approval required.",0
+MGMT,3301,BADM,2001," N/A",0
+MGMT,4202,MGMT,3201," N/A",0
+MGMT,4203,MGMT,3201," N/A",0
+MGMT,4402,SPAM,0," Junior standing &",0
+MGMT,4970,SPAM,0," Prerequisite: Consent of Instructor.",0
+MGMT,4975,SPAM,0," Prerequisites: Senior standing and consent of MGMT unit head and chair.",0
+MGMT,5303,MGMT,5202," N/A",0
+MGMT,5304,BADM,5310," N/A",0
+MGMT,5306,BADM,5310," N/A",0
+MGMT,5308,BADM,5310," N/A",0
+MGMT,5309,SPAM,0," Core requirements met and consent of instructor.",0
+MGMT,5370,BADM,5310," N/A",0
+MGMT,5375,SPAM,0," Prerequisite: Consent of MGMT unit head and chair.",0
+MKTG,3201,MKTG,2101," N/A",0
+MKTG,3202,MKTG,2101," N/A",0
+MKTG,3301,MKTG,2101," N/A",0
+MKTG,4203,MKTG,3201," N/A",0
+MKTG,4302,MKTG,2101," N/A",0
+MKTG,4303,MKTG,2101," N/A",0
+MKTG,4401,MKTG,2101," N/A",0
+MKTG,4501,MKTG,2101," N/A",0
+MKTG,4601,MKTG,2101," N/A",0
+MKTG,4602,MKTG,3201," N/A",0
+MKTG,4970,MKTG,2101," N/A",0
+MKTG,4975,SPAM,0," Prerequisites: Senior standing and consent of MKTG unit head and chair.",0
+MKTG,5301,BADM,5310," N/A",0
+MKTG,5304,BADM,5310," N/A",0
+MKTG,5305,BADM,5310," N/A",0
+MKTG,5306,BADM,5310," N/A",0
+MKTG,5307,BADM,5310," N/A",0
+MKTG,5370,BADM,5310," N/A",0
+MKTG,5375,SPAM,0," Consent of MKTG unit head and Director of MBA Program.",0
+MOIS,3201,MOIS,2101," N/A",0
+MOIS,3301,MOIS,2101," N/A",0
+MOIS,3401,MOIS,2101," N/A",0
+MOIS,3501,MOIS,2101," N/A",0
+MOIS,3601,MOIS,2101," N/A",0
+MOIS,3701,MOIS,2101," N/A",0
+MOIS,3702,MOIS,2101," N/A",0
+MOIS,3703,MOIS,2101," N/A",0
+MOIS,3801,MOIS,2101," N/A",0
+MOIS,4202,MOIS,3201," N/A",0
+MOIS,4704,MOIS,3201," N/A",0
+MOIS,4970,SPAM,0," Prerequisite: Consent of Instructor.",0
+MOIS,4975,SPAM,0," Prerequisites: Senior standing and consent of MOIS unit head and chair.",0
+MOIS,4999,SPAM,0," Completion of all MOIS core courses.",0
+MOIS,5202,SPAM,0," Co-requisite:",0
+MOIS,5211,SPAM,0," Co-requisite:",0
+MOIS,5301,BADM,5310," N/A",0
+MOIS,5302,BADM,5310," N/A",0
+MOIS,5303,BADM,5310," N/A",0
+MOIS,5304,OPMG,5201," N/A",0
+MOIS,5305,BADM,5310," N/A",0
+MOIS,5370,BADM,5310," N/A",0
+MOIS,5375,SPAM,0," Consent of MOIS unit head and Director of MBA Program.",0
+MRS,5284,SPAM,0," Permission of Advisor.",0
+MUSC,232,MUSC,2200," N/A",0
+MUSC,1800,MUSC,1805," N/A",0
+MUSC,2099,RHET,1000," N/A",0
+MUSC,2303,MUSC,2300," N/A",0
+MUSC,2400,MUSC,1805," N/A",0
+MUSC,2401,SPAM,0," Concurrent with",0
+MUSC,2450,MUSC,1805," N/A",0
+MUSC,2451,MUSC,1805," N/A",0
+MUSC,2640,SPAM,0," Permission of the instructor",0
+MUSC,2650,SPAM,0," Permission of the instructor",0
+MUSC,2660,SPAM,0," Consent of the director.",0
+MUSC,2670,SPAM,0," Permission of the instructor",0
+MUSC,2850,MUSC,1805," N/A",0
+MUSC,3099,SPAM,0," Prerequisite: consent of the instructor.",0
+MUSC,3110,MUSC,1800," N/A",0
+MUSC,3150,MUSC,2200," N/A",0
+MUSC,3200,MUSC,2200," N/A",0
+MUSC,3250,MUSC,2200," N/A",0
+MUSC,3304,MUSC,2200," N/A",0
+MUSC,3305,MUSC,2200," N/A",0
+MUSC,3306,SPAM,0,,0
+MUSC,3308,MUSC,2300," N/A",0
+MUSC,3400,MUSC,2400," N/A",0
+MUSC,3401,MUSC,2400," N/A",0
+MUSC,3450,MUSC,2450," N/A",0
+MUSC,3451,MUSC,2450," N/A",0
+MUSC,3520,MUSC,1805," N/A",0
+MUSC,3900,SPAM,0," Open to students with a minimum B average.",0
+MUSC,4308,MUSC,2300," N/A",0
+MUSC,4309,MUSC,2200," N/A",0
+MUSC,4400,MUSC,3400," N/A",0
+MUSC,4401,MUSC,3400," N/A",0
+MUSC,4800,SPAM,0," Four semesters of",0
+MUSC,4900,SPAM,0," Prerequisite: Consent of the instructor.",0
+NANO,5207,SPAM,0," Consent of instructor",0
+NANO,5210,PHYS,4042," N/A",0
+NANO,5221,SPAM,0," Consent of instructor.",0
+NANO,5241,NANO,5205," N/A",0
+NANO,5242,NANO,5205," N/A",0
+NANO,5261,SPAM,0," Graduate standing in engineering and physics. Electromagnetics, vector algebra, differential equations, and MATLAB programming.",0
+NANO,5910,SPAM,0," Consent of supervisor, graduate standing.",0
+NANO,5930,SPAM,0," Consent of the faculty advisor.",0
+NANO,5980,SPAM,0," SCI 5940",0
+NANO,6240,NANO,5205," N/A",0
+NANO,6910,SPAM,0," Consent of superviosr, graduate standing.",0
+OPMG,2101,MACT,1112," N/A",0
+OPMG,3201,MACT,1221," N/A",0
+OPMG,4102,OPMG,4202," N/A",0
+OPMG,4202,OPMG,3201," N/A",0
+OPMG,4203,OPMG,3201," N/A",0
+OPMG,4204,OPMG,3201," N/A",0
+OPMG,4301,OPMG,3201," N/A",0
+OPMG,4970,SPAM,0," Prerequisite: Consent of Instructor.",0
+OPMG,4975,SPAM,0," Prerequisites: Senior standing and consent of OPMG unit head and chair.",0
+OPMG,5202,OPMG,5201," N/A",0
+OPMG,5211,SPAM,0," Co-requisite:",0
+OPMG,5301,BADM,5310," N/A",0
+OPMG,5302,BADM,5310," N/A",0
+OPMG,5303,BADM,5310," N/A",0
+OPMG,5305,BADM,5310," N/A",0
+OPMG,5306,BADM,5310," N/A",0
+OPMG,5370,BADM,5310," N/A",0
+OPMG,5375,SPAM,0," Prerequisite: Consent of OPMG unit head and chair.",0
+PENG,2011,CHEM,1005," N/A",0
+PENG,2012,PENG,2011," N/A",0
+PENG,2013,ENGR,1001," N/A",0
+PENG,2411,PHYS,1021," N/A",0
+PENG,2415,CHEM,1005," N/A",0
+PENG,3011,SPAM,0," SCI 2005",0
+PENG,3021,SPAM,0," SCI 2005",0
+PENG,3022,SPAM,0,,0
+PENG,3111,PENG,3021," N/A",0
+PENG,3112,SPAM,0," Concurrent with",0
+PENG,3211,PENG,2013," N/A",0
+PENG,3215,PENG,3211," N/A",0
+PENG,3225,PENG,3215," N/A",0
+PENG,3227,PENG,3011," N/A",0
+PENG,3310,PENG,3111," N/A",0
+PENG,3311,PENG,3211," N/A",0
+PENG,3321,PENG,3311," N/A",0
+PENG,3411,ENGR,2122," N/A",0
+PENG,3413,PHYS,1011," N/A",0
+PENG,3415,ENGR,2122," N/A",0
+PENG,3420,CHEM,1005," N/A",0
+PENG,3421,PENG,2411," N/A",0
+PENG,4015,PENG,3011," N/A",0
+PENG,4121,PENG,3111," N/A",0
+PENG,4123,PENG,4121," N/A",0
+PENG,4125,PENG,4121," N/A",0
+PENG,4223,ENGR,3202," N/A",0
+PENG,4224,PENG,3215," N/A",0
+PENG,4225,PENG,3215," N/A",0
+PENG,4226,PENG,3311," N/A",0
+PENG,4227,PENG,3227," N/A",0
+PENG,4229,PENG,3215," N/A",0
+PENG,4313,PENG,3311," N/A",0
+PENG,4320,PENG,3311," N/A",0
+PENG,4323,PENG,3420," N/A",0
+PENG,4325,PENG,3311," N/A",0
+PENG,4330,SPAM,0," Senior standing.",0
+PENG,4421,PENG,3415," N/A",0
+PENG,4422,PENG,4421," N/A",0
+PENG,4423,PENG,2411," N/A",0
+PENG,4425,PENG,3415," N/A",0
+PENG,4427,PENG,3413," N/A",0
+PENG,4428,PENG,2411," N/A",0
+PENG,4429,PENG,3415," N/A",0
+PENG,4920,SPAM,0," Consent of instructor and department chair on the basis of a well-defined proposal.",0
+PENG,4930,SPAM,0," Senior standing.",0
+PENG,4950,SPAM,0," A minimum of 12 credits of PENG courses",0
+PENG,4980,SPAM,0," Consent of the instructor or the department chair.",0
+PENG,4981,SPAM,0," Prerequisite: Senior standing and",0
+PENG,5112,SPAM,0," consent of instructor",0
+PENG,5131,SPAM,0," consent of instructor",0
+PENG,5134,SPAM,0," consent of instructor",0
+PENG,5136,SPAM,0," consent of instructor",0
+PENG,5141,SPAM,0," consent of instructor",0
+PENG,5142,SPAM,0," consent of instructor",0
+PENG,5144,SPAM,0," consent of instructor",0
+PENG,5211,SPAM,0," consent of instructor",0
+PENG,5221,SPAM,0," consent of instructor",0
+PENG,5222,SPAM,0," consent of instructor",0
+PENG,5232,SPAM,0," consent of instructor",0
+PENG,5233,SPAM,0," consent of instructor",0
+PENG,5235,SPAM,0," consent of instructor",0
+PENG,5243,SPAM,0," consent of instructor",0
+PENG,5254,ENGR,5940," N/A",0
+PHDE,6291,SPAM,0," Graduate Seminar I,",0
+PHDS,6291,SPAM,0," Graduate Seminar I (",0
+PHIL,2100,RHET,1100," N/A",0
+PHIL,3015,HIST,2203," N/A",0
+PHIL,5112,SPAM,0," Prerequisites For Undergraduates:",0
+PHIL,5150,SPAM,0," Students other than Philosophy majors must take",0
+PHIL,5199,SPAM,0," Senior level, graduate level, or consent of instructor.",0
+PHYS,1011,MACT,1121," N/A",0
+PHYS,1012,SPAM,0," Concurrent with",0
+PHYS,1021,PHYS,1011," N/A",0
+PHYS,1022,SPAM,0," Concurrent with",0
+PHYS,2041,PHYS,1021," N/A",0
+PHYS,2042,PHYS,2041," N/A",0
+PHYS,2211,PHYS,1021," N/A",0
+PHYS,2212,SPAM,0," Concurrent with",0
+PHYS,2213,SPAM,0," Concurrent with",0
+PHYS,2221,PHYS,1021," N/A",0
+PHYS,2222,PHYS,2221," N/A",0
+PHYS,3013,MACT,2141," N/A",0
+PHYS,3023,PHYS,2221," N/A",0
+PHYS,3031,SPAM,0," Concurrent",0
+PHYS,3052,PHYS,2041," N/A",0
+PHYS,3071,MACT,2132," N/A",0
+PHYS,3223,PHYS,2222," N/A",0
+PHYS,3232,PHYS,4231," N/A",0
+PHYS,3241,CSCE,1001," N/A",0
+PHYS,4042,PHYS,2041," N/A",0
+PHYS,4043,PHYS,4042," N/A",0
+PHYS,4051,SPAM,0,,0
+PHYS,4224,PHYS,2221," N/A",0
+PHYS,4225,PHYS,2222," N/A",0
+PHYS,4231,PHYS,3031," N/A",0
+PHYS,4233,PHYS,4231," N/A",0
+PHYS,4234,PHYS,2211," N/A",0
+PHYS,4241,PHYS,2211," N/A",0
+PHYS,4242,PHYS,2211," N/A",0
+PHYS,4243,PHYS,2211," N/A",0
+PHYS,4244,PHYS,2211," N/A",0
+PHYS,4281,SPAM,0," Prerequisites: Junior standing. Consent of instructor.",0
+PHYS,4910,SPAM,0," Prerequisites: consent of the instructor, senior standing.",0
+PHYS,4930,SPAM,0," Prerequisite: Junior standing or consent of instructor.",0
+PHYS,4980,SPAM,0," Senior standing.",0
+PHYS,4981,PHYS,4980," N/A",0
+PHYS,5013,PHYS,3013," N/A",0
+PHYS,5023,PHYS,3023," N/A",0
+PHYS,5024,PHYS,5023," N/A",0
+PHYS,5032,PHYS,3031," N/A",0
+PHYS,5043,PHYS,4042," N/A",0
+PHYS,5061,MACT,2141," N/A",0
+PHYS,5207,SPAM,0," Consent of Instructor",0
+PHYS,5235,PHYS,4231," N/A",0
+PHYS,5236,PHYS,2211," N/A",0
+PHYS,5237,PHYS,5235," N/A",0
+PHYS,5242,MACT,2141," N/A",0
+PHYS,5277,SPAM,0," Consent of instructor.",0
+PHYS,5282,PHYS,3052," N/A",0
+PHYS,5910,SPAM,0," Prerequisite: Consent of supervisor, graduate standing.",0
+PHYS,5930,SPAM,0," Consent of the faculty advisor.",0
+PHYS,6025,PHYS,5023," N/A",0
+PHYS,6121,SPAM,0," Consent of Instructor",0
+PHYS,6225,PHYS,4224," N/A",0
+PHYS,6243,PHYS,5023," N/A",0
+PHYS,6930,SPAM,0," Consent of the faculty advisor.",0
+POLS,1001,ENGL,210," N/A",0
+POLS,2003,ENGL,210," N/A",0
+POLS,2096,RHET,1010," N/A",0
+POLS,2104,POLS,1001," N/A",0
+POLS,2405,RHET,1010," N/A",0
+POLS,3201,RHET,1020," N/A",0
+POLS,3202,RHET,1020," N/A",0
+POLS,3401,POLS,1001," N/A",0
+POLS,3408,POLS,1001," N/A",0
+POLS,3454,POLS,1001," N/A",0
+POLS,3510,POLS,1001," N/A",0
+POLS,3550,POLS,1001," N/A",0
+POLS,3620,POLS,1001," N/A",0
+POLS,4000,POLS,3201," N/A",0
+POLS,4018,RHET,1020," N/A",0
+POLS,4030,RHET,1020," N/A",0
+POLS,4033,POLS,1001," N/A",0
+POLS,4035,SPAM,0," Prerequisites: 9 hours of social science, and junior or senior standing.",0
+POLS,4099,POLS,4000," N/A",0
+POLS,4104,POLS,3201," N/A",0
+POLS,4216,RHET,1020," N/A",0
+POLS,4217,RHET,1020," N/A",0
+POLS,4226,RHET,1020," N/A",0
+POLS,4371,RHET,1020," N/A",0
+POLS,4372,RHET,1020," N/A",0
+POLS,4373,RHET,1020," N/A",0
+POLS,4374,RHET,1020," N/A",0
+POLS,4375,RHET,1020," N/A",0
+POLS,4377,RHET,1020," N/A",0
+POLS,4378,RHET,1020," N/A",0
+POLS,4403,POLS,1001," N/A",0
+POLS,4405,POLS,1001," N/A",0
+POLS,4420,RHET,1020," N/A",0
+POLS,4422,RHET,1020," N/A",0
+POLS,4423,POLS,1001," N/A",0
+POLS,4424,POLS,1001," N/A",0
+POLS,4425,POLS,1001," N/A",0
+POLS,4432,RHET,1020," N/A",0
+POLS,4435,RHET,1020," N/A",0
+POLS,4437,POLS,1001," N/A",0
+POLS,4438,RHET,1020," N/A",0
+POLS,4439,POLS,1001," N/A",0
+POLS,4444,POLS,1001," N/A",0
+POLS,4444,POLS,2003," N/A",0
+POLS,4444,POLS,3401," N/A",0
+POLS,4444,RHET,1020," N/A",0
+POLS,4470,RHET,1020," N/A",0
+POLS,4480,RHET,1020," N/A",0
+POLS,4481,RHET,1020," N/A",0
+POLS,4502,RHET,1020," N/A",0
+POLS,4513,RHET,1020," N/A",0
+POLS,4523,RHET,1020," N/A",0
+POLS,4525,RHET,1020," N/A",0
+POLS,4526,RHET,1020," N/A",0
+POLS,4542,RHET,1020," N/A",0
+POLS,4550,RHET,1020," N/A",0
+POLS,4551,RHET,1020," N/A",0
+POLS,4560,RHET,1020," N/A",0
+POLS,4565,RHET,1020," N/A",0
+POLS,4605,RHET,1020," N/A",0
+POLS,4608,RHET,1020," N/A",0
+POLS,4609,RHET,1020," N/A",0
+POLS,4610,RHET,1020," N/A",0
+POLS,4611,RHET,1020," N/A",0
+POLS,4614,RHET,1020," N/A",0
+POLS,4615,RHET,1020," N/A",0
+POLS,4640,RHET,1020," N/A",0
+POLS,5130,SPAM,0," Junior standing,",0
+POLS,5140,SPAM,0,,0
+POLS,5230,POLS,5201," N/A",0
+POLS,5258,POLS,5201," N/A",0
+POLS,5261,ECON,2021," N/A",0
+POLS,5262,POLS,5202," N/A",0
+POLS,5280,SPAM,0," Department Approval.",0
+PPAD,2099,RHET,1000," N/A",0
+PPAD,5131,SPAM,0," Completion of economics core or equivalent economics preparation.",0
+PPAD,5155,SPAM,0," The course explores the evolving status of developing countries in the multilateral system. Are developing countries having a role that allows them to promote their legitimate interests in global international governance and the multilateral trading system? Does International Cooperation work in their favor? Going through the different development paradigms in the UN system, post WW II Bretton Wood system, the course investigates how developing countries remain sidelined from global governance and continue to be mere standard takers.",0
+PPAD,5175,SPAM,0," Pre-requisites: Permission of the instructor and unit head",0
+PPAD,5198,SPAM,0," Junior or Senior status.",0
+PPAD,5199,SPAM,0," Consent of the instructor and advisor.",0
+PPAD,5225,SPAM,0," Admission in the Master in Global Affairs (MGA) program. having taken",0
+PPAD,5232,PPAD,5231," N/A",0
+PPAD,5288,SPAM,0," Completion of all degree required courses",0
+PPAD,5293,SPAM,0," Permission of adviser and instructor",0
+PPAD,5298,SPAM,0," Supervisor approval of a thesis or master’s project proposal or permission of the supervisor and instructor.",0
+PSYC,412,SPAM,0," Junior, senior, or graduate standing.",0
+PSYC,2100,PSYC,1000," N/A",0
+PSYC,3002,PSYC,1000," N/A",0
+PSYC,3003,PSYC,1000," N/A",0
+PSYC,3010,PSYC,1000," N/A",0
+PSYC,3011,PSYC,1000," N/A",0
+PSYC,3040,PSYC,1000," N/A",0
+PSYC,3080,PSYC,2100," N/A",0
+PSYC,3270,PSYC,1000," N/A",0
+PSYC,3420,PSYC,1000," N/A",0
+PSYC,3800,BIOL,1011," N/A",0
+PSYC,4001,PSYC,2100," N/A",0
+PSYC,4002,SPAM,0," Prerequisites: a minimum B average, consent of the instructor, and approval by the Unit Head and the Department Chair.",0
+PSYC,4011,PSYC,1000," N/A",0
+PSYC,4012,PSYC,1000," N/A",0
+PSYC,4013,PSYC,1000," N/A",0
+PSYC,4014,PSYC,3040," N/A",0
+PSYC,4015,SPAM,0," Prerequisites: 6 hours of anthropology, 6 hours of psychology, and junior or senior standing",0
+PSYC,4016,PSYC,1000," N/A",0
+PSYC,4022,PSYC,3010," N/A",0
+PSYC,4030,SPAM,0," Junior or senior standing and 15 hours of psychology.",0
+PSYC,4062,PSYC,3270," N/A",0
+PSYC,4063,PSYC,1000," N/A",0
+PSYC,4098,BIOL,1011," N/A",0
+PSYC,4099,SPAM,0," junior or senior standing",0
+PSYC,4150,PSYC,1000," N/A",0
+PSYC,4203,SPAM,0," Six hours of social sciences or consent of the instructor.",0
+PSYC,5000,SPAM,0," Post baccalaureate",0
+PSYC,5203,SPAM,0," None.",0
+PSYC,5209,SPAM,0," Minimum 3.0 GPA, consent of instructor, and approval of graduate advisor.",0
+PSYC,5256,SPAM,0," Approval of advisor.",0
+PSYC,5264,PSYC,5200," N/A",0
+PSYC,5265,PSYC,5205," N/A",0
+PSYC,5274,PSYC,5200," N/A",0
+PSYC,5283,PSYC,5203," N/A",0
+PSYC,5284,PSYC,5264," N/A",0
+PSYC,5299,SPAM,0," Approval of advisor.",0
+RCSS,5233,SPAM,0," Consent of instructor.",0
+RCSS,5234,ECNG,3202," N/A",0
+RCSS,5242,SPAM,0," Consent of instructor.",0
+RCSS,5930,SPAM,0," Consent of the faculty advisor.",0
+RCSS,5989,ENGR,5940," N/A",0
+RHET,1020,SPAM,0,,0
+RHET,1100,RHET,1000," N/A",0
+RHET,2010,RHET,1100," N/A",0
+RHET,2099,RHET,1020," N/A",0
+RHET,3099,RHET,1020," N/A",0
+RHET,3110,RHET,1020," N/A",0
+RHET,3120,RHET,1020," N/A",0
+RHET,3130,RHET,1020," N/A",0
+RHET,3140,RHET,1020," N/A",0
+RHET,3150,RHET,1020," N/A",0
+RHET,3160,RHET,1020," N/A",0
+RHET,3210,RHET,1020," N/A",0
+RHET,3220,RHET,1020," N/A",0
+RHET,3230,RHET,1020," N/A",0
+RHET,3240,RHET,1020," N/A",0
+RHET,3250,RHET,1020," N/A",0
+RHET,3310,RHET,1020," N/A",0
+RHET,3320,RHET,1020," N/A",0
+RHET,3330,RHET,1020," N/A",0
+RHET,3340,RHET,1020," N/A",0
+RHET,3350,RHET,1020," N/A",0
+RHET,4060,RHET,1020," N/A",0
+RHET,4160,RHET,1020," N/A",0
+RHET,4260,RHET,1020," N/A",0
+RHET,4270,RHET,1020," N/A",0
+RHET,4280,SPAM,0,,0
+RHET,4360,RHET,1020," N/A",0
+SCI,1005,SPAM,0," Prerequisite: Not for credit for Science, Engineering and Computer Science students.",0
+SCI,1009,SPAM,0," Prerequisite: Not for credit for Science, Engineering and Computer Science students.",0
+SCI,1015,SPAM,0," SCI 1020",0
+SCI,3002,SPAM,0," Prerequisites: Junior standing or higher.",0
+SCI,4005,SPAM,0," SCI 2005",0
+SCI,5940,SPAM,0," Completion of 9 cr hrs",0
+SOC,2005,RHET,2010," N/A",0
+SOC,2099,RHET,1000," N/A",0
+SOC,3010,PSYC,1000," N/A",0
+SOC,3045,SPAM,0," Three hours of Social Sciences.",0
+SOC,3060,SPAM,0," Three hours of Social Sciences.",0
+SOC,3085,SPAM,0," Three hours of Social Sciences.",0
+SOC,3102,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing, or consent of instructor.",0
+SOC,3103,SPAM,0," Three hours of Social Sciences",0
+SOC,3104,SPAM,0," SOC 3102",0
+SOC,3105,SPAM,0," SOC 2101",0
+SOC,3303,SPAM,0," Three hours of Social Sciences.",0
+SOC,3305,SPAM,0," Three hours of Social Sciences",0
+SOC,4005,SPAM,0," Prerequisites: Junior or senior standing, 6 hrs. of social science or the permission of the instructor.",0
+SOC,4010,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing.",0
+SOC,4020,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing.",0
+SOC,4025,SPAM,0," 9 hours of social sciences and junior or senior standing.",0
+SOC,4035,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing",0
+SOC,4040,SPAM,0," Prerequisite: nine hours of social sciences, at least junior standing or the consent of the instructor.",0
+SOC,4055,SPAM,0," 9 hours of Social Sciences and Junior or Senior standing.",0
+SOC,4099,SPAM,0," Prerequisites: 9 hours of social sciences, and junior or senior standing.",0
+SOC,4106,SPAM,0," Prerequisites: 9 hours of social sciences and junior or senior standing.",0
+SOC,4107,SPAM,0," Senior standing and",0
+SOC,4203,SPAM,0," Six hours of social sciences or consent of the instructor.",0
+SOC,4405,SPAM,0," Prerequisites: a minimum B average, consent of the instructor, and approval by the Unit Head and the Department Chair.",0
+SOC,4560,SPAM,0," 12 credit hours of social science.",0
+SOC/ANTH,5200,SPAM,0," Graduate standing or advanced undergraduate standing and permission of instructor.",0
+SOC/ANTH,5297,SPAM,0," Department approval.",0
+TEAL,5201,SPAM,0," Admission to program",0
+TEAL,5202,TEAL,5201," N/A",0
+TEAL,5203,TEAL,5202," N/A",0
+TEAL,5204,TEAL,5203," N/A",0
+TEAL,5205,TEAL,5204," N/A",0
+TEAL,5206,TEAL,5205," N/A",0
+TEAL,5207,TEAL,5206," N/A",0
+TEAL,5208,TEAL,5207," N/A",0
+TEAL,5209,TEAL,5208," N/A",0
+THTR,2099,RHET,1000," N/A",0
+THTR,2601,THTR,1201," N/A",0
+THTR,2603,SPAM,0," Consent of instructor",0
+THTR,3099,SPAM,0," Prerequisite: consent of the instructor.",0
+THTR,3201,THTR,2201," N/A",0
+THTR,3203,THTR,3201," N/A",0
+THTR,3205,THTR,3201," N/A",0
+THTR,3207,THTR,2201," N/A",0
+THTR,3211,THTR,2211," N/A",0
+THTR,3301,THTR,2201," N/A",0
+THTR,3401,THTR,1201," N/A",0
+THTR,3501,THTR,2301," N/A",0
+THTR,3503,SPAM,0," Prerequisite: .",0
+THTR,3601,THTR,2401," N/A",0
+THTR,3603,SPAM,0," Prerequisites: Selection by application and interview.",0
+THTR,4000,SPAM,0," Minimum B average required.",0
+THTR,4301,THTR,3301," N/A",0
+THTR,4404,THTR,2401," N/A",0
+THTR,4405,THTR,2401," N/A",0
+THTR,4406,THTR,2401," N/A",0
+THTR,4701,SPAM,0," Prerequisite: consent of the instructor.",0
+THTR,4703,THTR,3401," N/A",0
+THTR,4705,SPAM,0," Prerequisite: consent of the instructor.",0
+TVDJ,5237,SPAM,0," Advised to be taken concurrently with",0
+TVDJ,5239,TVDJ,5237," N/A",0
+TVDJ,5241,SPAM,0," Advised to be taken concurrently with",0
+TVDJ,5242,SPAM,0," Advised to be taken concurrently with",0
+TVDJ,5245,TVDJ,5237," N/A",0
+TVDJ,5246,TVDJ,5245," N/A",0

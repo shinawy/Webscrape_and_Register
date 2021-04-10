@@ -1,0 +1,25 @@
+<strong>Degree Works</strong>
+<table border="1">
+    <tr>
+        <td>"StudentID"</td>
+        <td>"deptCode"</td>
+        <td>"CourseNUm"</td>
+        <td>"Letter Grade"</td>
+        <td>"Semester"</td>
+        <td>"year"</td>
+
+    </tr>
+    {% for info in degreeworkinfo %}
+    <tr>
+        <td>{{info[0]}}</td>
+        <td>{{info[1]}}</td>
+        <td>{{info[2]}}</td>
+        <td>{{info[3]}}</td>
+        <td>{{info[4]}}</td>
+        <td>{{info[5]}}</td>
+
+
+    </tr>
+    {% endfor %}
+
+</table>
